@@ -1,5 +1,10 @@
-Digital Innovation One
-freeCodeCamp 
-Grasshopper
-The Odin Project
-Programming Hero
+#### Sites
+
+- Digital Innovation One
+- freeCodeCamp
+- The Odin Project
+
+#### Apps
+
+- Programming Hero
+- Grasshopper
